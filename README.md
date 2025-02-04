@@ -2,7 +2,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/simple-non-responsive-blog-preview-card-FxNh-HRerp
 - Live Site URL: (https://blog-preview-card-frontend-mentor-beta.vercel.app/)
 
 ### Built with
